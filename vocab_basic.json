@@ -1,0 +1,2497 @@
+{
+   "fawn":{
+      "learned":false,
+      "list":"basic",
+      "def":"try to gain favor by cringing or flattering"
+   },
+   "founder":{
+      "learned":false,
+      "list":"basic",
+      "def":"stumble and nearly fall, fail utterly"
+   },
+   "dissolution":{
+      "learned":false,
+      "list":"basic",
+      "def":"separation into component parts, the termination of a relationship"
+   },
+   "surreptitious":{
+      "learned":false,
+      "list":"basic",
+      "def":"conducted with or marked by hidden aims or methods"
+   },
+   "peruse":{
+      "learned":false,
+      "list":"basic",
+      "def":"examine or consider with attention and in detail"
+   },
+   "obviate":{
+      "learned":false,
+      "list":"basic",
+      "def":"prevent the occurrence of"
+   },
+   "tenuous":{
+      "learned":false,
+      "list":"basic",
+      "def":"having little substance or significance"
+   },
+   "discordant":{
+      "learned":false,
+      "list":"basic",
+      "def":"not in agreement or harmony"
+   },
+   "renege":{
+      "learned":false,
+      "list":"basic",
+      "def":"to fail to honor a commitment; to go back on a promise"
+   },
+   "recluse":{
+      "learned":false,
+      "list":"basic",
+      "def":"one who lives in solitude"
+   },
+   "milk":{
+      "learned":false,
+      "list":"basic",
+      "def":"exploit as much as possible"
+   },
+   "assuage":{
+      "learned":false,
+      "list":"basic",
+      "def":"to make easier or milder, relieve; to quiet, calm; to put an end to, appease, satisfy, quench"
+   },
+   "indolent":{
+      "learned":false,
+      "list":"basic",
+      "def":"disinclined to work or exertion"
+   },
+   "extraneous":{
+      "learned":false,
+      "list":"basic",
+      "def":"not essential"
+   },
+   "obstinate":{
+      "learned":false,
+      "list":"basic",
+      "def":"persist stubbornly"
+   },
+   "tenacity":{
+      "learned":false,
+      "list":"basic",
+      "def":"persistent determination"
+   },
+   "ambience":{
+      "learned":false,
+      "list":"basic",
+      "def":"the atmosphere of an environment"
+   },
+   "amorous":{
+      "learned":false,
+      "list":"basic",
+      "def":"inclined toward or displaying love"
+   },
+   "slothful":{
+      "learned":false,
+      "list":"basic",
+      "def":"disinclined to work or exertion"
+   },
+   "equivocal":{
+      "learned":false,
+      "list":"basic",
+      "def":"open to two or more interpretations"
+   },
+   "facetious":{
+      "learned":false,
+      "list":"basic",
+      "def":"cleverly amusing in tone"
+   },
+   "amorphous":{
+      "learned":false,
+      "list":"basic",
+      "def":"having no definite form or distinct shape"
+   },
+   "pious":{
+      "learned":false,
+      "list":"basic",
+      "def":"devoutly religious"
+   },
+   "din":{
+      "learned":false,
+      "list":"basic",
+      "def":"a loud harsh or strident noise"
+   },
+   "magnate":{
+      "learned":false,
+      "list":"basic",
+      "def":"a very wealthy or powerful businessman"
+   },
+   "multifaceted":{
+      "learned":false,
+      "list":"basic",
+      "def":"having many aspects"
+   },
+   "discrete":{
+      "learned":false,
+      "list":"basic",
+      "def":"constituting a separate entity or part"
+   },
+   "burgeon":{
+      "learned":false,
+      "list":"basic",
+      "def":"grow and flourish"
+   },
+   "anesthetic":{
+      "learned":false,
+      "list":"basic",
+      "def":"a drug that causes temporary loss of bodily sensations"
+   },
+   "veritable":{
+      "learned":false,
+      "list":"basic",
+      "def":"actual, true, real"
+   },
+   "plummet":{
+      "learned":false,
+      "list":"basic",
+      "def":"drop sharply"
+   },
+   "monotonous":{
+      "learned":false,
+      "list":"basic",
+      "def":"tediously repetitious or lacking in variety"
+   },
+   "androgynous":{
+      "learned":false,
+      "list":"basic",
+      "def":"having both male and female characteristics"
+   },
+   "synergy":{
+      "learned":false,
+      "list":"basic",
+      "def":"the working together of two things (muscles or drugs for example) to produce an effect greater than the sum of their individual effects"
+   },
+   "burnish":{
+      "learned":false,
+      "list":"basic",
+      "def":"to polish"
+   },
+   "tangential":{
+      "learned":false,
+      "list":"basic",
+      "def":"of superficial relevance if any"
+   },
+   "query":{
+      "learned":false,
+      "list":"basic",
+      "def":"pose a question"
+   },
+   "ardent":{
+      "learned":false,
+      "list":"basic",
+      "def":"characterized by intense emotion"
+   },
+   "affectation":{
+      "learned":false,
+      "list":"basic",
+      "def":"unnatural or artificial behavior, usually intended to impress"
+   },
+   "affable":{
+      "learned":false,
+      "list":"basic",
+      "def":"courteous and pleasant, sociable, easy to speak to"
+   },
+   "sordid":{
+      "learned":false,
+      "list":"basic",
+      "def":"unethical or dishonest"
+   },
+   "reconciliation":{
+      "learned":false,
+      "list":"basic",
+      "def":"the act of agreement after a quarrel, the resolution of a dispute"
+   },
+   "opaque":{
+      "learned":false,
+      "list":"basic",
+      "def":"not clearly understood or expressed"
+   },
+   "forestall":{
+      "learned":false,
+      "list":"basic",
+      "def":"keep from happening or arising"
+   },
+   "intimate":{
+      "learned":false,
+      "list":"basic",
+      "def":"imply as a possibility"
+   },
+   "schism":{
+      "learned":false,
+      "list":"basic",
+      "def":"division of a group into opposing factions"
+   },
+   "exacerbate":{
+      "learned":false,
+      "list":"basic",
+      "def":"make worse"
+   },
+   "volatile":{
+      "learned":false,
+      "list":"basic",
+      "def":"liable to lead to sudden change or violence"
+   },
+   "succinct":{
+      "learned":false,
+      "list":"basic",
+      "def":"brief and to the point"
+   },
+   "pristine":{
+      "learned":false,
+      "list":"basic",
+      "def":"immaculately clean and unused"
+   },
+   "commensurate":{
+      "learned":false,
+      "list":"basic",
+      "def":"corresponding in size or degree or extent"
+   },
+   "maverick":{
+      "learned":false,
+      "list":"basic",
+      "def":"independent in behavior or thought"
+   },
+   "evanescent":{
+      "learned":false,
+      "list":"basic",
+      "def":"vanishing, soon passing away; light and airy"
+   },
+   "abscond":{
+      "learned":false,
+      "list":"basic",
+      "def":"depart secretly and hide"
+   },
+   "metamorphose":{
+      "learned":false,
+      "list":"basic",
+      "def":"change in outward structure or looks"
+   },
+   "unremitting":{
+      "learned":false,
+      "list":"basic",
+      "def":"uninterrupted in time and indefinitely long continuing"
+   },
+   "epitome":{
+      "learned":false,
+      "list":"basic",
+      "def":"a standard or typical example"
+   },
+   "adulterate":{
+      "learned":false,
+      "list":"basic",
+      "def":"corrupt, debase, or make impure by adding a foreign or inferior substance"
+   },
+   "connoisseur":{
+      "learned":false,
+      "list":"basic",
+      "def":"an expert able to appreciate a field"
+   },
+   "precursor":{
+      "learned":false,
+      "list":"basic",
+      "def":"an indication of the approach of something or someone"
+   },
+   "queue":{
+      "learned":false,
+      "list":"basic",
+      "def":"form a queue, form a line, stand in line"
+   },
+   "cogent":{
+      "learned":false,
+      "list":"basic",
+      "def":"powerfully persuasive"
+   },
+   "astute":{
+      "learned":false,
+      "list":"basic",
+      "def":"marked by practical hardheaded intelligence"
+   },
+   "whimsical":{
+      "learned":false,
+      "list":"basic",
+      "def":"determined by chance or impulse or whim rather than by necessity or reason"
+   },
+   "miscreant":{
+      "learned":false,
+      "list":"basic",
+      "def":"a person without moral scruples"
+   },
+   "marginal":{
+      "learned":false,
+      "list":"basic",
+      "def":"of something or someone close to a lower limit or lower class"
+   },
+   "improbable":{
+      "learned":false,
+      "list":"basic",
+      "def":"not likely to be true or to occur or to have occurred"
+   },
+   "abash":{
+      "learned":false,
+      "list":"basic",
+      "def":"cause to be embarrassed"
+   },
+   "sanction":{
+      "learned":false,
+      "list":"basic",
+      "def":"give authority or permission to"
+   },
+   "aberrant":{
+      "learned":false,
+      "list":"basic",
+      "def":"markedly different from an accepted norm"
+   },
+   "ingenuity":{
+      "learned":false,
+      "list":"basic",
+      "def":"the power of creative imagination"
+   },
+   "plod":{
+      "learned":false,
+      "list":"basic",
+      "def":"walk heavily and firmly, as when weary, or through mud"
+   },
+   "contrite":{
+      "learned":false,
+      "list":"basic",
+      "def":"feeling regret for a fault or offence"
+   },
+   "hegemony":{
+      "learned":false,
+      "list":"basic",
+      "def":"domination over others"
+   },
+   "bombast":{
+      "learned":false,
+      "list":"basic",
+      "def":"pompous or pretentious talk or writing"
+   },
+   "engender":{
+      "learned":false,
+      "list":"basic",
+      "def":"to cause, to produce, to create"
+   },
+   "conspire":{
+      "learned":false,
+      "list":"basic",
+      "def":"engage in plotting or enter into a conspiracy, swear together"
+   },
+   "dogma":{
+      "learned":false,
+      "list":"basic",
+      "def":"a doctrine or code of beliefs accepted as authoritative"
+   },
+   "flag":{
+      "learned":false,
+      "list":"basic",
+      "def":"become less intense"
+   },
+   "qualm":{
+      "learned":false,
+      "list":"basic",
+      "def":"uneasiness about the fitness of an action"
+   },
+   "intemperance":{
+      "learned":false,
+      "list":"basic",
+      "def":"consumption of alcoholic drinks"
+   },
+   "spendthrift":{
+      "learned":false,
+      "list":"basic",
+      "def":"someone who spends money prodigally"
+   },
+   "cunning":{
+      "learned":false,
+      "list":"basic",
+      "def":"marked by skill in deception"
+   },
+   "inerrancy":{
+      "learned":false,
+      "list":"basic",
+      "def":"making no mistakes or errors"
+   },
+   "disingenuous":{
+      "learned":false,
+      "list":"basic",
+      "def":"not straightforward; crafty"
+   },
+   "augment":{
+      "learned":false,
+      "list":"basic",
+      "def":"enlarge or increase"
+   },
+   "somber":{
+      "learned":false,
+      "list":"basic",
+      "def":"grave or even gloomy in character"
+   },
+   "forbearance":{
+      "learned":false,
+      "list":"basic",
+      "def":"a delay in enforcing rights or claims or privileges"
+   },
+   "pedagogy":{
+      "learned":false,
+      "list":"basic",
+      "def":"the activities of educating or instructing or teaching"
+   },
+   "defer":{
+      "learned":false,
+      "list":"basic",
+      "def":"submit or yield to another's wish or opinion"
+   },
+   "eclectic":{
+      "learned":false,
+      "list":"basic",
+      "def":"made up of a variety of sources or styles"
+   },
+   "bent":{
+      "learned":false,
+      "list":"basic",
+      "def":"a relatively permanent inclination to react in a particular way"
+   },
+   "buttress":{
+      "learned":false,
+      "list":"basic",
+      "def":"(v.) to support, prop up, strengthen; (n.) a supporting structure"
+   },
+   "wane":{
+      "learned":false,
+      "list":"basic",
+      "def":"decrease in phase"
+   },
+   "shard":{
+      "learned":false,
+      "list":"basic",
+      "def":"a fragment"
+   },
+   "intransigent":{
+      "learned":false,
+      "list":"basic",
+      "def":"not capable of being swayed or diverted from a course"
+   },
+   "indifferent":{
+      "learned":false,
+      "list":"basic",
+      "def":"showing no care or concern in attitude or action"
+   },
+   "allege":{
+      "learned":false,
+      "list":"basic",
+      "def":"to assert without proof or confirmation"
+   },
+   "condemn":{
+      "learned":false,
+      "list":"basic",
+      "def":"express strong disapproval of"
+   },
+   "provincial":{
+      "learned":false,
+      "list":"basic",
+      "def":"lacking sophistication, narrow-minded"
+   },
+   "impassive":{
+      "learned":false,
+      "list":"basic",
+      "def":"having or revealing little emotion or sensibility"
+   },
+   "savor":{
+      "learned":false,
+      "list":"basic",
+      "def":"derive or receive pleasure from"
+   },
+   "imminent":{
+      "learned":false,
+      "list":"basic",
+      "def":"about to happen"
+   },
+   "eloquent":{
+      "learned":false,
+      "list":"basic",
+      "def":"expressing yourself readily, clearly, effectively"
+   },
+   "copious":{
+      "learned":false,
+      "list":"basic",
+      "def":"large in number or quantity (especially of discourse)"
+   },
+   "debauchery":{
+      "learned":false,
+      "list":"basic",
+      "def":"corruption; self-indulgence"
+   },
+   "cardinal":{
+      "learned":false,
+      "list":"basic",
+      "def":"serving as an essential component"
+   },
+   "restitution":{
+      "learned":false,
+      "list":"basic",
+      "def":"the act of restoring something to its original state"
+   },
+   "irascible":{
+      "learned":false,
+      "list":"basic",
+      "def":"quickly aroused to anger"
+   },
+   "abrasive":{
+      "learned":false,
+      "list":"basic",
+      "def":"sharply disagreeable"
+   },
+   "cavalier":{
+      "learned":false,
+      "list":"basic",
+      "def":"carefree, happy; with lordly disdain"
+   },
+   "singular":{
+      "learned":false,
+      "list":"basic",
+      "def":"unusual or striking"
+   },
+   "emulate":{
+      "learned":false,
+      "list":"basic",
+      "def":"strive to equal or match, especially by imitating"
+   },
+   "tact":{
+      "learned":false,
+      "list":"basic",
+      "def":"consideration in dealing with others and avoiding giving offence"
+   },
+   "ornery":{
+      "learned":false,
+      "list":"basic",
+      "def":"having a difficult and contrary disposition"
+   },
+   "perjury":{
+      "learned":false,
+      "list":"basic",
+      "def":"criminal offense of making false statements under oath"
+   },
+   "indomitable":{
+      "learned":false,
+      "list":"basic",
+      "def":"impossible to subdue"
+   },
+   "waver":{
+      "learned":false,
+      "list":"basic",
+      "def":"the act of pausing uncertainly"
+   },
+   "malevolent":{
+      "learned":false,
+      "list":"basic",
+      "def":"wishing or appearing to wish evil to others"
+   },
+   "temperate":{
+      "learned":false,
+      "list":"basic",
+      "def":"not extreme"
+   },
+   "ambiguous":{
+      "learned":false,
+      "list":"basic",
+      "def":"having more than one possible meaning"
+   },
+   "austere":{
+      "learned":false,
+      "list":"basic",
+      "def":"of a stern or strict bearing or demeanor"
+   },
+   "meticulous":{
+      "learned":false,
+      "list":"basic",
+      "def":"marked by extreme care in treatment of details"
+   },
+   "arduous":{
+      "learned":false,
+      "list":"basic",
+      "def":"difficult to accomplish"
+   },
+   "curmudgeon":{
+      "learned":false,
+      "list":"basic",
+      "def":"a crusty irascible cantankerous old person full of stubborn ideas"
+   },
+   "remonstrate":{
+      "learned":false,
+      "list":"basic",
+      "def":"argue in protest or opposition"
+   },
+   "innocuous":{
+      "learned":false,
+      "list":"basic",
+      "def":"unlikely to harm or disturb anyone"
+   },
+   "impetuous":{
+      "learned":false,
+      "list":"basic",
+      "def":"characterized by undue haste and lack of thought or deliberation"
+   },
+   "oblique":{
+      "learned":false,
+      "list":"basic",
+      "def":"indirect in departing from the accepted or proper way"
+   },
+   "goad":{
+      "learned":false,
+      "list":"basic",
+      "def":"to drive or urge on"
+   },
+   "preempt":{
+      "learned":false,
+      "list":"basic",
+      "def":"to supersede; appropiate for oneself"
+   },
+   "pine":{
+      "learned":false,
+      "list":"basic",
+      "def":"have a desire for something or someone who is not present"
+   },
+   "staunch":{
+      "learned":false,
+      "list":"basic",
+      "def":"firm and dependable especially in loyalty"
+   },
+   "fidelity":{
+      "learned":false,
+      "list":"basic",
+      "def":"the quality of being faithful"
+   },
+   "vilify":{
+      "learned":false,
+      "list":"basic",
+      "def":"to malign, to defame, to utter abusive statements against"
+   },
+   "avid":{
+      "learned":false,
+      "list":"basic",
+      "def":"marked by active interest and enthusiasm"
+   },
+   "relegate":{
+      "learned":false,
+      "list":"basic",
+      "def":"assign to a lower position"
+   },
+   "benign":{
+      "learned":false,
+      "list":"basic",
+      "def":"pleasant and beneficial in nature or influence"
+   },
+   "lackluster":{
+      "learned":false,
+      "list":"basic",
+      "def":"lacking brilliance or vitality"
+   },
+   "rectify":{
+      "learned":false,
+      "list":"basic",
+      "def":"make right or correct"
+   },
+   "antipathy":{
+      "learned":false,
+      "list":"basic",
+      "def":"a feeling of intense dislike"
+   },
+   "precipitate":{
+      "learned":false,
+      "list":"basic",
+      "def":"bring about abruptly"
+   },
+   "imperturbable":{
+      "learned":false,
+      "list":"basic",
+      "def":"not easily perturbed or excited or upset"
+   },
+   "prime":{
+      "learned":false,
+      "list":"basic",
+      "def":"first in rank, excellence, quality, importance, or time"
+   },
+   "disparate":{
+      "learned":false,
+      "list":"basic",
+      "def":"fundamentally different or distinct in quality or kind"
+   },
+   "indefatigable":{
+      "learned":false,
+      "list":"basic",
+      "def":"showing sustained enthusiastic action with unflagging vitality"
+   },
+   "amenable":{
+      "learned":false,
+      "list":"basic",
+      "def":"disposed or willing to comply"
+   },
+   "denigrate":{
+      "learned":false,
+      "list":"basic",
+      "def":"to attack the reputation of; to speak ill of"
+   },
+   "flout":{
+      "learned":false,
+      "list":"basic",
+      "def":"treat with contemptuous disregard"
+   },
+   "warranted":{
+      "learned":false,
+      "list":"basic",
+      "def":"justified; authorized"
+   },
+   "pompous":{
+      "learned":false,
+      "list":"basic",
+      "def":"overly self-important in speech and manner; excessively stately or ceremonious"
+   },
+   "diabolic":{
+      "learned":false,
+      "list":"basic",
+      "def":"extremely evil or cruel"
+   },
+   "rescind":{
+      "learned":false,
+      "list":"basic",
+      "def":"to repeal, cancel"
+   },
+   "reticent":{
+      "learned":false,
+      "list":"basic",
+      "def":"temperamentally disinclined to talk, reluctant to draw attention to yourself"
+   },
+   "rhetoric":{
+      "learned":false,
+      "list":"basic",
+      "def":"using language effectively to please or persuade"
+   },
+   "placate":{
+      "learned":false,
+      "list":"basic",
+      "def":"to appease, soothe, pacify"
+   },
+   "malleable":{
+      "learned":false,
+      "list":"basic",
+      "def":"easily influenced"
+   },
+   "debacle":{
+      "learned":false,
+      "list":"basic",
+      "def":"A complete failure; a total collapse"
+   },
+   "capricious":{
+      "learned":false,
+      "list":"basic",
+      "def":"impulsive and unpredictable"
+   },
+   "boisterous":{
+      "learned":false,
+      "list":"basic",
+      "def":"violently agitated and turbulent"
+   },
+   "inherent":{
+      "learned":false,
+      "list":"basic",
+      "def":"existing as an essential constituent or characteristic"
+   },
+   "furtive":{
+      "learned":false,
+      "list":"basic",
+      "def":"marked by quiet and caution and secrecy"
+   },
+   "vexation":{
+      "learned":false,
+      "list":"basic",
+      "def":"something or someone that causes anxiety"
+   },
+   "enigmatic":{
+      "learned":false,
+      "list":"basic",
+      "def":"mysterious, inexplicable, puzzling"
+   },
+   "dichotomy":{
+      "learned":false,
+      "list":"basic",
+      "def":"a division into two parts"
+   },
+   "resolute":{
+      "learned":false,
+      "list":"basic",
+      "def":"characterized by quickness and firmness"
+   },
+   "contiguous":{
+      "learned":false,
+      "list":"basic",
+      "def":"very close or connected in space or time"
+   },
+   "beneficent":{
+      "learned":false,
+      "list":"basic",
+      "def":"doing or producing good"
+   },
+   "waffle":{
+      "learned":false,
+      "list":"basic",
+      "def":"pause or hold back in uncertainty or unwillingness"
+   },
+   "inopportune":{
+      "learned":false,
+      "list":"basic",
+      "def":"coming at a bad time; not appropriate"
+   },
+   "supplant":{
+      "learned":false,
+      "list":"basic",
+      "def":"take the place or move into the position of"
+   },
+   "static":{
+      "learned":false,
+      "list":"basic",
+      "def":"not active or moving"
+   },
+   "deride":{
+      "learned":false,
+      "list":"basic",
+      "def":"treat or speak of with contempt"
+   },
+   "caustic":{
+      "learned":false,
+      "list":"basic",
+      "def":"harsh or corrosive in tone"
+   },
+   "ameliorate":{
+      "learned":false,
+      "list":"basic",
+      "def":"to make better"
+   },
+   "anarchy":{
+      "learned":false,
+      "list":"basic",
+      "def":"a state of lawlessness and disorder (usually resulting from a failure of government)"
+   },
+   "reverent":{
+      "learned":false,
+      "list":"basic",
+      "def":"feeling or showing profound respect or veneration"
+   },
+   "presumptuous":{
+      "learned":false,
+      "list":"basic",
+      "def":"excessively forward"
+   },
+   "irony":{
+      "learned":false,
+      "list":"basic",
+      "def":"incongruity between what might be expected and what actually occurs"
+   },
+   "bellicose":{
+      "learned":false,
+      "list":"basic",
+      "def":"having or showing a ready disposition to fight"
+   },
+   "forte":{
+      "learned":false,
+      "list":"basic",
+      "def":"an asset of special worth or utility"
+   },
+   "nominal":{
+      "learned":false,
+      "list":"basic",
+      "def":"being such in name only"
+   },
+   "viable":{
+      "learned":false,
+      "list":"basic",
+      "def":"capable of life or normal growth and development"
+   },
+   "insular":{
+      "learned":false,
+      "list":"basic",
+      "def":"narrowly restricted in outlook or scope"
+   },
+   "solvent":{
+      "learned":false,
+      "list":"basic",
+      "def":"capable of meeting financial obligations"
+   },
+   "inert":{
+      "learned":false,
+      "list":"basic",
+      "def":"slow and apathetic"
+   },
+   "demure":{
+      "learned":false,
+      "list":"basic",
+      "def":"affectedly modest or shy especially in a playful or provocative way"
+   },
+   "platitude":{
+      "learned":false,
+      "list":"basic",
+      "def":"a boring or unoriginal remark"
+   },
+   "bedlam":{
+      "learned":false,
+      "list":"basic",
+      "def":"a state of extreme confusion and disorder"
+   },
+   "qualify":{
+      "learned":false,
+      "list":"basic",
+      "def":"make more specific"
+   },
+   "salutary":{
+      "learned":false,
+      "list":"basic",
+      "def":"tending to promote physical well-being"
+   },
+   "abate":{
+      "learned":false,
+      "list":"basic",
+      "def":"become less in amount or intensity"
+   },
+   "ominous":{
+      "learned":false,
+      "list":"basic",
+      "def":"threatening or foreshadowing evil or tragic developments"
+   },
+   "reproach":{
+      "learned":false,
+      "list":"basic",
+      "def":"a mild rebuke or criticism"
+   },
+   "corrosion":{
+      "learned":false,
+      "list":"basic",
+      "def":"a state of deterioration in metals caused by oxidation or chemical action"
+   },
+   "prodigal":{
+      "learned":false,
+      "list":"basic",
+      "def":"recklessly wasteful"
+   },
+   "serenity":{
+      "learned":false,
+      "list":"basic",
+      "def":"the absence of mental stress or anxiety"
+   },
+   "facilitate":{
+      "learned":false,
+      "list":"basic",
+      "def":"make easier"
+   },
+   "penury":{
+      "learned":false,
+      "list":"basic",
+      "def":"a state of extreme poverty or destitution"
+   },
+   "euphemism":{
+      "learned":false,
+      "list":"basic",
+      "def":"an inoffensive expression that is substituted for one that is considered offensive"
+   },
+   "remuneration":{
+      "learned":false,
+      "list":"basic",
+      "def":"the act of paying for goods or services or to recompense for losses"
+   },
+   "belligerent":{
+      "learned":false,
+      "list":"basic",
+      "def":"given to fighting, warlike; combative, aggressive; one at war, one engaged in war"
+   },
+   "petulant":{
+      "learned":false,
+      "list":"basic",
+      "def":"easily irritated or annoyed"
+   },
+   "fancy":{
+      "learned":false,
+      "list":"basic",
+      "def":"have a particular liking or desire for"
+   },
+   "ethereal":{
+      "learned":false,
+      "list":"basic",
+      "def":"characterized by lightness and insubstantiality"
+   },
+   "enumerate":{
+      "learned":false,
+      "list":"basic",
+      "def":"determine the number or amount of"
+   },
+   "pragmatic":{
+      "learned":false,
+      "list":"basic",
+      "def":"concerned with practical matters"
+   },
+   "centrifuge":{
+      "learned":false,
+      "list":"basic",
+      "def":"an apparatus that uses centrifugal force to separate particles from a suspension"
+   },
+   "salient":{
+      "learned":false,
+      "list":"basic",
+      "def":"prominent; of notable significance"
+   },
+   "apprise":{
+      "learned":false,
+      "list":"basic",
+      "def":"make aware of"
+   },
+   "fortuitous":{
+      "learned":false,
+      "list":"basic",
+      "def":"occurring by happy chance"
+   },
+   "convention":{
+      "learned":false,
+      "list":"basic",
+      "def":"something regarded as a normative example"
+   },
+   "aver":{
+      "learned":false,
+      "list":"basic",
+      "def":"to declare or affirm solemnly and formally as true"
+   },
+   "brevity":{
+      "learned":false,
+      "list":"basic",
+      "def":"the attribute of being brief or fleeting"
+   },
+   "prone":{
+      "learned":false,
+      "list":"basic",
+      "def":"having a tendency (to)"
+   },
+   "pervasive":{
+      "learned":false,
+      "list":"basic",
+      "def":"spreading throughout"
+   },
+   "itinerate":{
+      "learned":false,
+      "list":"basic",
+      "def":"travel from place to place, as for work"
+   },
+   "disabuse":{
+      "learned":false,
+      "list":"basic",
+      "def":"to free from deception or error, set right in ideas or thinking"
+   },
+   "dissemble":{
+      "learned":false,
+      "list":"basic",
+      "def":"hide under a false appearance"
+   },
+   "daunt":{
+      "learned":false,
+      "list":"basic",
+      "def":"to overcome with fear, intimidate; to dishearten, discourage"
+   },
+   "heretical":{
+      "learned":false,
+      "list":"basic",
+      "def":"characterized by departure from accepted beliefs or standards"
+   },
+   "viscous":{
+      "learned":false,
+      "list":"basic",
+      "def":"having a gelatinous or gluey quality, lacking in easy movement or fluidity"
+   },
+   "prune":{
+      "learned":false,
+      "list":"basic",
+      "def":"weed out unwanted or unnecessary things"
+   },
+   "lament":{
+      "learned":false,
+      "list":"basic",
+      "def":"regret strongly"
+   },
+   "cower":{
+      "learned":false,
+      "list":"basic",
+      "def":"To crouch or shrink away from in fear or shame"
+   },
+   "distill":{
+      "learned":false,
+      "list":"basic",
+      "def":"remove impurities from, increase the concentration of, and separate through the process of distillation"
+   },
+   "circumspect":{
+      "learned":false,
+      "list":"basic",
+      "def":"heedful of potential consequences"
+   },
+   "espouse":{
+      "learned":false,
+      "list":"basic",
+      "def":"take up the cause, ideology, practice, method, of someone and use it as one's own"
+   },
+   "dynamo":{
+      "learned":false,
+      "list":"basic",
+      "def":"generator for producing electricity; energetic person"
+   },
+   "filibuster":{
+      "learned":false,
+      "list":"basic",
+      "def":"a tactic for delaying or obstructing legislation by making long speeches"
+   },
+   "profuse":{
+      "learned":false,
+      "list":"basic",
+      "def":"produced or growing in extreme abundance"
+   },
+   "contentious":{
+      "learned":false,
+      "list":"basic",
+      "def":"involving or likely to cause controversy"
+   },
+   "tantalize":{
+      "learned":false,
+      "list":"basic",
+      "def":"to tease, torment by teasing"
+   },
+   "torque":{
+      "learned":false,
+      "list":"basic",
+      "def":"a twisting force"
+   },
+   "waft":{
+      "learned":false,
+      "list":"basic",
+      "def":"be driven or carried along, as by the air"
+   },
+   "culpable":{
+      "learned":false,
+      "list":"basic",
+      "def":"deserving blame or censure as being wrong or evil or injurious"
+   },
+   "odious":{
+      "learned":false,
+      "list":"basic",
+      "def":"unequivocally detestable"
+   },
+   "cognizant":{
+      "learned":false,
+      "list":"basic",
+      "def":"aware; having knowledge of something"
+   },
+   "sap":{
+      "learned":false,
+      "list":"basic",
+      "def":"deplete"
+   },
+   "conversion":{
+      "learned":false,
+      "list":"basic",
+      "def":"the act of changing from one use or function or purpose to another"
+   },
+   "beleaguer":{
+      "learned":false,
+      "list":"basic",
+      "def":"annoy persistently"
+   },
+   "refute":{
+      "learned":false,
+      "list":"basic",
+      "def":"prove to be false or incorrect"
+   },
+   "ephemeral":{
+      "learned":false,
+      "list":"basic",
+      "def":"enduring a very short time"
+   },
+   "divulge":{
+      "learned":false,
+      "list":"basic",
+      "def":"make known to the public information that was previously known only to a few people or that was meant to be kept a secret"
+   },
+   "ancillary":{
+      "learned":false,
+      "list":"basic",
+      "def":"subordinate or supplementary"
+   },
+   "buff":{
+      "learned":false,
+      "list":"basic",
+      "def":"polish and make shiny"
+   },
+   "inured":{
+      "learned":false,
+      "list":"basic",
+      "def":"made tough by habitual exposure"
+   },
+   "inept":{
+      "learned":false,
+      "list":"basic",
+      "def":"generally incompetent and ineffectual"
+   },
+   "amiable":{
+      "learned":false,
+      "list":"basic",
+      "def":"diffusing warmth and friendliness"
+   },
+   "hankering":{
+      "learned":false,
+      "list":"basic",
+      "def":"a yearning for something or to do something"
+   },
+   "raucous":{
+      "learned":false,
+      "list":"basic",
+      "def":"unpleasantly loud and harsh"
+   },
+   "miserly":{
+      "learned":false,
+      "list":"basic",
+      "def":"stingy; mean"
+   },
+   "propagate":{
+      "learned":false,
+      "list":"basic",
+      "def":"transmit or cause to broaden or spread"
+   },
+   "fervent":{
+      "learned":false,
+      "list":"basic",
+      "def":"characterized by intense emotion"
+   },
+   "conspicuous":{
+      "learned":false,
+      "list":"basic",
+      "def":"obvious to the eye or mind"
+   },
+   "mitigate":{
+      "learned":false,
+      "list":"basic",
+      "def":"lessen or to try to lessen the seriousness or extent of"
+   },
+   "amortize":{
+      "learned":false,
+      "list":"basic",
+      "def":"to diminish by installment payments"
+   },
+   "covet":{
+      "learned":false,
+      "list":"basic",
+      "def":"wish, long, or crave for (something, especially the property of another person)"
+   },
+   "saturate":{
+      "learned":false,
+      "list":"basic",
+      "def":"infuse or fill completely"
+   },
+   "digress":{
+      "learned":false,
+      "list":"basic",
+      "def":"wander from a direct or straight course"
+   },
+   "dispersed":{
+      "learned":false,
+      "list":"basic",
+      "def":"distributed or spread over a considerable extent"
+   },
+   "partisan":{
+      "learned":false,
+      "list":"basic",
+      "def":"adhering or confined to a particular sect or denomination or party"
+   },
+   "contemptuous":{
+      "learned":false,
+      "list":"basic",
+      "def":"feeling hatred; scornful"
+   },
+   "pursuant":{
+      "learned":false,
+      "list":"basic",
+      "def":"in conformance to or agreement with"
+   },
+   "precarious":{
+      "learned":false,
+      "list":"basic",
+      "def":"not secure"
+   },
+   "aghast":{
+      "learned":false,
+      "list":"basic",
+      "def":"horrified"
+   },
+   "converge":{
+      "learned":false,
+      "list":"basic",
+      "def":"move or draw together at a certain location"
+   },
+   "rubric":{
+      "learned":false,
+      "list":"basic",
+      "def":"category name"
+   },
+   "subtle":{
+      "learned":false,
+      "list":"basic",
+      "def":"be difficult to detect or grasp by the mind"
+   },
+   "obsequious":{
+      "learned":false,
+      "list":"basic",
+      "def":"attempting to win favor from influential people by flattery"
+   },
+   "trivial":{
+      "learned":false,
+      "list":"basic",
+      "def":"(informal terms) small and of little importance"
+   },
+   "aggravate":{
+      "learned":false,
+      "list":"basic",
+      "def":"make worse"
+   },
+   "latent":{
+      "learned":false,
+      "list":"basic",
+      "def":"potentially existing but not presently evident or realized"
+   },
+   "itinerant":{
+      "learned":false,
+      "list":"basic",
+      "def":"traveling from place to place to work"
+   },
+   "stanza":{
+      "learned":false,
+      "list":"basic",
+      "def":"a fixed number of lines of verse forming a unit of a poem"
+   },
+   "impunity":{
+      "learned":false,
+      "list":"basic",
+      "def":"exemption from punishment or loss"
+   },
+   "travesty":{
+      "learned":false,
+      "list":"basic",
+      "def":"a comedy characterized by broad satire and improbable situations"
+   },
+   "credulous":{
+      "learned":false,
+      "list":"basic",
+      "def":"gullible"
+   },
+   "deign":{
+      "learned":false,
+      "list":"basic",
+      "def":"do something that one considers to be below one's dignity"
+   },
+   "myriad":{
+      "learned":false,
+      "list":"basic",
+      "def":"a large indefinite number"
+   },
+   "vigor":{
+      "learned":false,
+      "list":"basic",
+      "def":"active strength of body or mind"
+   },
+   "adherent":{
+      "learned":false,
+      "list":"basic",
+      "def":"someone who believes and helps to spread the doctrine of another"
+   },
+   "gratis":{
+      "learned":false,
+      "list":"basic",
+      "def":"without payment"
+   },
+   "spurious":{
+      "learned":false,
+      "list":"basic",
+      "def":"plausible but false"
+   },
+   "ardor":{
+      "learned":false,
+      "list":"basic",
+      "def":"feelings of great warmth and intensity"
+   },
+   "denounce":{
+      "learned":false,
+      "list":"basic",
+      "def":"to accuse or condemn or openly or formally or brand as disgraceful"
+   },
+   "judicious":{
+      "learned":false,
+      "list":"basic",
+      "def":"marked by the exercise of good judgment or common sense in practical matters"
+   },
+   "fraud":{
+      "learned":false,
+      "list":"basic",
+      "def":"something intended to deceive"
+   },
+   "relish":{
+      "learned":false,
+      "list":"basic",
+      "def":"derive or receive pleasure from"
+   },
+   "misappropriate":{
+      "learned":false,
+      "list":"basic",
+      "def":"to misuse"
+   },
+   "belabor":{
+      "learned":false,
+      "list":"basic",
+      "def":"to work on excessively; to thrash soundly"
+   },
+   "assimilate":{
+      "learned":false,
+      "list":"basic",
+      "def":"become similar to one's environment"
+   },
+   "unfettered":{
+      "learned":false,
+      "list":"basic",
+      "def":"not bound by shackles and chains"
+   },
+   "disparage":{
+      "learned":false,
+      "list":"basic",
+      "def":"express a negative opinion of"
+   },
+   "morose":{
+      "learned":false,
+      "list":"basic",
+      "def":"showing a brooding ill humor"
+   },
+   "allusion":{
+      "learned":false,
+      "list":"basic",
+      "def":"passing reference or indirect mention"
+   },
+   "cynical":{
+      "learned":false,
+      "list":"basic",
+      "def":"believing the worst of human nature and motives"
+   },
+   "expel":{
+      "learned":false,
+      "list":"basic",
+      "def":"force to leave or move out"
+   },
+   "peripheral":{
+      "learned":false,
+      "list":"basic",
+      "def":"on or near an edge or constituting an outer boundary"
+   },
+   "avow":{
+      "learned":false,
+      "list":"basic",
+      "def":"to declare or affirm solemnly and formally as true"
+   },
+   "recalcitrant":{
+      "learned":false,
+      "list":"basic",
+      "def":"stubbornly disobedient, resisting authority"
+   },
+   "tender":{
+      "learned":false,
+      "list":"basic",
+      "def":"offer or present for acceptance"
+   },
+   "sporadic":{
+      "learned":false,
+      "list":"basic",
+      "def":"recurring in scattered and irregular or unpredictable instances"
+   },
+   "luminous":{
+      "learned":false,
+      "list":"basic",
+      "def":"softly bright or radiant"
+   },
+   "plasticity":{
+      "learned":false,
+      "list":"basic",
+      "def":"the property of being physically malleable"
+   },
+   "equivocate":{
+      "learned":false,
+      "list":"basic",
+      "def":"be deliberately ambiguous or unclear in order to mislead or withhold information"
+   },
+   "illusory":{
+      "learned":false,
+      "list":"basic",
+      "def":"misleading, deceptive; lacking in or not based on reality"
+   },
+   "broach":{
+      "learned":false,
+      "list":"basic",
+      "def":"bring up a topic for discussion"
+   },
+   "arcane":{
+      "learned":false,
+      "list":"basic",
+      "def":"requiring secret or mysterious knowledge"
+   },
+   "membrane":{
+      "learned":false,
+      "list":"basic",
+      "def":"a thin pliable sheet of material"
+   },
+   "distraught":{
+      "learned":false,
+      "list":"basic",
+      "def":"deeply agitated especially from emotion"
+   },
+   "lethargic":{
+      "learned":false,
+      "list":"basic",
+      "def":"deficient in alertness or activity"
+   },
+   "frugality":{
+      "learned":false,
+      "list":"basic",
+      "def":"prudence in avoiding waste"
+   },
+   "candor":{
+      "learned":false,
+      "list":"basic",
+      "def":"the quality of being honest and straightforward in attitude and speech"
+   },
+   "extend":{
+      "learned":false,
+      "list":"basic",
+      "def":"span an interval of distance, space or time"
+   },
+   "presumption":{
+      "learned":false,
+      "list":"basic",
+      "def":"an assumption that is taken for granted"
+   },
+   "complement":{
+      "learned":false,
+      "list":"basic",
+      "def":"something added to complete or make perfect"
+   },
+   "aesthetic":{
+      "learned":false,
+      "list":"basic",
+      "def":"concerning or characterized by an appreciation of beauty or good taste"
+   },
+   "tacit":{
+      "learned":false,
+      "list":"basic",
+      "def":"indicated by necessary connotation though not expressed directly"
+   },
+   "idolatrous":{
+      "learned":false,
+      "list":"basic",
+      "def":"blindly or excessively devoted or adoring"
+   },
+   "remedial":{
+      "learned":false,
+      "list":"basic",
+      "def":"tending or intended to rectify or improve"
+   },
+   "inundate":{
+      "learned":false,
+      "list":"basic",
+      "def":"fill or cover completely, usually with water"
+   },
+   "estimable":{
+      "learned":false,
+      "list":"basic",
+      "def":"deserving of respect or high regard"
+   },
+   "belie":{
+      "learned":false,
+      "list":"basic",
+      "def":"to contradict, to give a false impression"
+   },
+   "tout":{
+      "learned":false,
+      "list":"basic",
+      "def":"advertize in strongly positive terms"
+   },
+   "placebo":{
+      "learned":false,
+      "list":"basic",
+      "def":"something which has a positive mental effect, but no physical effect"
+   },
+   "secrete":{
+      "learned":false,
+      "list":"basic",
+      "def":"generate and separate from cells or bodily fluids"
+   },
+   "eradicate":{
+      "learned":false,
+      "list":"basic",
+      "def":"destroy completely, as if down to the roots"
+   },
+   "color":{
+      "learned":false,
+      "list":"basic",
+      "def":"modify or bias"
+   },
+   "inquisitive":{
+      "learned":false,
+      "list":"basic",
+      "def":"showing curiosity"
+   },
+   "coercive":{
+      "learned":false,
+      "list":"basic",
+      "def":"serving or intended to compel by force or authority"
+   },
+   "idiosyncracy":{
+      "learned":false,
+      "list":"basic",
+      "def":"an odd, unusual, or peculiar behavior"
+   },
+   "acrid":{
+      "learned":false,
+      "list":"basic",
+      "def":"harsh in taste or odor; sharp in manner or temper"
+   },
+   "gratitude":{
+      "learned":false,
+      "list":"basic",
+      "def":"a feeling of thankfulness and appreciation"
+   },
+   "damp":{
+      "learned":false,
+      "list":"basic",
+      "def":"lessen in force or effect"
+   },
+   "satire":{
+      "learned":false,
+      "list":"basic",
+      "def":"witty language used to convey insults or scorn"
+   },
+   "personable":{
+      "learned":false,
+      "list":"basic",
+      "def":"pleasing in appearance or personality, attractive"
+   },
+   "incubation":{
+      "learned":false,
+      "list":"basic",
+      "def":"maintaining something at the most favorable temperature for its development"
+   },
+   "anomaly":{
+      "learned":false,
+      "list":"basic",
+      "def":"deviation from the normal or common order or form or rule"
+   },
+   "diatribe":{
+      "learned":false,
+      "list":"basic",
+      "def":"a bitter and prolonged verbal attack"
+   },
+   "exculpate":{
+      "learned":false,
+      "list":"basic",
+      "def":"pronounce not guilty of criminal charges"
+   },
+   "proclivity":{
+      "learned":false,
+      "list":"basic",
+      "def":"a natural inclination"
+   },
+   "derivative":{
+      "learned":false,
+      "list":"basic",
+      "def":"unoriginal; derived from another source"
+   },
+   "abject":{
+      "learned":false,
+      "list":"basic",
+      "def":"most unfortunate or miserable"
+   },
+   "diffuse":{
+      "learned":false,
+      "list":"basic",
+      "def":"spread out"
+   },
+   "terse":{
+      "learned":false,
+      "list":"basic",
+      "def":"brief and to the point"
+   },
+   "novel":{
+      "learned":false,
+      "list":"basic",
+      "def":"new; original"
+   },
+   "chauvinist":{
+      "learned":false,
+      "list":"basic",
+      "def":"a person with a prejudiced belief in the superiority of his or her own kind"
+   },
+   "empirical":{
+      "learned":false,
+      "list":"basic",
+      "def":"derived from experiment and observation rather than theory"
+   },
+   "penultimate":{
+      "learned":false,
+      "list":"basic",
+      "def":"next to the last"
+   },
+   "reconnaissance":{
+      "learned":false,
+      "list":"basic",
+      "def":"exploration to gain knowledge or information"
+   },
+   "implacable":{
+      "learned":false,
+      "list":"basic",
+      "def":"impossible to placate"
+   },
+   "misanthrope":{
+      "learned":false,
+      "list":"basic",
+      "def":"someone who dislikes people in general"
+   },
+   "debased":{
+      "learned":false,
+      "list":"basic",
+      "def":"ruined in character or quality"
+   },
+   "antithesis":{
+      "learned":false,
+      "list":"basic",
+      "def":"exact opposite"
+   },
+   "discrepancy":{
+      "learned":false,
+      "list":"basic",
+      "def":"a difference between conflicting facts or claims or opinions"
+   },
+   "enervate":{
+      "learned":false,
+      "list":"basic",
+      "def":"weaken mentally or morally"
+   },
+   "stint":{
+      "learned":false,
+      "list":"basic",
+      "def":"supply sparingly and with restricted quantities"
+   },
+   "sever":{
+      "learned":false,
+      "list":"basic",
+      "def":"cut off from a whole"
+   },
+   "hyperbole":{
+      "learned":false,
+      "list":"basic",
+      "def":"extravagant exaggeration"
+   },
+   "resurrect":{
+      "learned":false,
+      "list":"basic",
+      "def":"restore from a depressed, inactive, or unused state"
+   },
+   "ostentatious":{
+      "learned":false,
+      "list":"basic",
+      "def":"of a display that is tawdry or vulgar"
+   },
+   "patent":{
+      "learned":false,
+      "list":"basic",
+      "def":"clearly apparent or obvious to the mind or senses"
+   },
+   "makeshift":{
+      "learned":false,
+      "list":"basic",
+      "def":"something contrived to meet an urgent need or emergency; done or made using whatever is available"
+   },
+   "subliminal":{
+      "learned":false,
+      "list":"basic",
+      "def":"below the threshold of conscious perception"
+   },
+   "propensity":{
+      "learned":false,
+      "list":"basic",
+      "def":"a natural inclination"
+   },
+   "discourse":{
+      "learned":false,
+      "list":"basic",
+      "def":"extended verbal expression in speech or writing"
+   },
+   "incumbent":{
+      "learned":false,
+      "list":"basic",
+      "def":"the official who holds an office; lying or leaning on something else"
+   },
+   "deference":{
+      "learned":false,
+      "list":"basic",
+      "def":"a disposition or tendency to yield to the will of others"
+   },
+   "decibel":{
+      "learned":false,
+      "list":"basic",
+      "def":"unit of measurement for the loudness of sounds"
+   },
+   "pedantic":{
+      "learned":false,
+      "list":"basic",
+      "def":"marked by a narrow focus on or display of learning especially its trivial aspects"
+   },
+   "eulogy":{
+      "learned":false,
+      "list":"basic",
+      "def":"a formal expression of praise"
+   },
+   "eccentric":{
+      "learned":false,
+      "list":"basic",
+      "def":"conspicuously or grossly unconventional or unusual"
+   },
+   "censure":{
+      "learned":false,
+      "list":"basic",
+      "def":"harsh criticism or disapproval"
+   },
+   "renaissance":{
+      "learned":false,
+      "list":"basic",
+      "def":"the revival of learning and culture"
+   },
+   "misconstrue":{
+      "learned":false,
+      "list":"basic",
+      "def":"to interpret wrongly, mistake the meaning of"
+   },
+   "aggregate":{
+      "learned":false,
+      "list":"basic",
+      "def":"gather in a mass, sum, or whole"
+   },
+   "retard":{
+      "learned":false,
+      "list":"basic",
+      "def":"cause to move more slowly or operate at a slower rate"
+   },
+   "perennial":{
+      "learned":false,
+      "list":"basic",
+      "def":"lasting an indefinitely long time"
+   },
+   "episodic":{
+      "learned":false,
+      "list":"basic",
+      "def":"occurring or appearing at usually irregular intervals"
+   },
+   "castigation":{
+      "learned":false,
+      "list":"basic",
+      "def":"punishment; severe criticism or disapproval"
+   },
+   "approbation":{
+      "learned":false,
+      "list":"basic",
+      "def":"official recognition or approval"
+   },
+   "impediment":{
+      "learned":false,
+      "list":"basic",
+      "def":"any structure that makes progress difficult"
+   },
+   "subpoena":{
+      "learned":false,
+      "list":"basic",
+      "def":"a writ issued by court authority to compel the attendance of a witness at a judicial proceeding"
+   },
+   "paradigm":{
+      "learned":false,
+      "list":"basic",
+      "def":"a standard or typical example, the generally accepted perspective of a particular discipline at a given time"
+   },
+   "parody":{
+      "learned":false,
+      "list":"basic",
+      "def":"humorous or satirical mimicry"
+   },
+   "bereave":{
+      "learned":false,
+      "list":"basic",
+      "def":"to make desolate with loneliness and grief."
+   },
+   "abstain":{
+      "learned":false,
+      "list":"basic",
+      "def":"to choose not to do something"
+   },
+   "salve":{
+      "learned":false,
+      "list":"basic",
+      "def":"anything that remedies or heals or soothes"
+   },
+   "rarefy":{
+      "learned":false,
+      "list":"basic",
+      "def":"to make or become thin, less dense; to refine"
+   },
+   "amalgamate":{
+      "learned":false,
+      "list":"basic",
+      "def":"to bring or combine together or with something else"
+   },
+   "quintessential":{
+      "learned":false,
+      "list":"basic",
+      "def":"representing the perfect example of a class or quality"
+   },
+   "vigilant":{
+      "learned":false,
+      "list":"basic",
+      "def":"carefully observant or attentive"
+   },
+   "tirade":{
+      "learned":false,
+      "list":"basic",
+      "def":"a long, angry speech, usually very critical"
+   },
+   "penchant":{
+      "learned":false,
+      "list":"basic",
+      "def":"a strong liking"
+   },
+   "arrest":{
+      "learned":false,
+      "list":"basic",
+      "def":"cause to stop"
+   },
+   "alchemy":{
+      "learned":false,
+      "list":"basic",
+      "def":"a pseudoscientific forerunner of chemistry in medieval times"
+   },
+   "indignation":{
+      "learned":false,
+      "list":"basic",
+      "def":"a feeling of righteous anger"
+   },
+   "soliloquy":{
+      "learned":false,
+      "list":"basic",
+      "def":"a (usually long) dramatic speech intended to give the illusion of unspoken reflections"
+   },
+   "advocate":{
+      "learned":false,
+      "list":"basic",
+      "def":"speak, plead, or argue in favour of"
+   },
+   "discreet":{
+      "learned":false,
+      "list":"basic",
+      "def":"marked by prudence or modesty and wise self-restraint"
+   },
+   "cursory":{
+      "learned":false,
+      "list":"basic",
+      "def":"hasty and without attention to detail"
+   },
+   "pertinent":{
+      "learned":false,
+      "list":"basic",
+      "def":"having precise or logical relevance to the matter at hand"
+   },
+   "deviance":{
+      "learned":false,
+      "list":"basic",
+      "def":"a state or condition markedly different from the norm"
+   },
+   "porous":{
+      "learned":false,
+      "list":"basic",
+      "def":"full of pores or vessels or holes"
+   },
+   "manifest":{
+      "learned":false,
+      "list":"basic",
+      "def":"reveal its presence or make an appearance"
+   },
+   "deleterious":{
+      "learned":false,
+      "list":"basic",
+      "def":"harmful, injurious"
+   },
+   "sparse":{
+      "learned":false,
+      "list":"basic",
+      "def":"meager, scant; scattered"
+   },
+   "arbitrary":{
+      "learned":false,
+      "list":"basic",
+      "def":"based on or subject to individual discretion or preference or sometimes impulse or caprice"
+   },
+   "divest":{
+      "learned":false,
+      "list":"basic",
+      "def":"reduce or dispose of"
+   },
+   "adversity":{
+      "learned":false,
+      "list":"basic",
+      "def":"a state of misfortune or affliction"
+   },
+   "detraction":{
+      "learned":false,
+      "list":"basic",
+      "def":"the act of discrediting or detracting from someone's reputation (especially by slander)"
+   },
+   "repudiate":{
+      "learned":false,
+      "list":"basic",
+      "def":"reject as untrue, unfounded, or unjust"
+   },
+   "veracity":{
+      "learned":false,
+      "list":"basic",
+      "def":"adherence to the truth; truthfulness"
+   },
+   "audacious":{
+      "learned":false,
+      "list":"basic",
+      "def":"disposed to venture or take risks"
+   },
+   "martial":{
+      "learned":false,
+      "list":"basic",
+      "def":"suggesting war or military life"
+   },
+   "ostracism":{
+      "learned":false,
+      "list":"basic",
+      "def":"the act of excluding someone from society by general consent"
+   },
+   "flush":{
+      "learned":false,
+      "list":"basic",
+      "def":"in the same plane"
+   },
+   "archetype":{
+      "learned":false,
+      "list":"basic",
+      "def":"an original model on which something is patterned"
+   },
+   "dilapidated":{
+      "learned":false,
+      "list":"basic",
+      "def":"in deplorable condition"
+   },
+   "flounder":{
+      "learned":false,
+      "list":"basic",
+      "def":"behave awkwardly"
+   },
+   "discretion":{
+      "learned":false,
+      "list":"basic",
+      "def":"the trait of judging wisely and objectively"
+   },
+   "bolster":{
+      "learned":false,
+      "list":"basic",
+      "def":"support and strengthen"
+   },
+   "slight":{
+      "learned":false,
+      "list":"basic",
+      "def":"pay no attention to, disrespect"
+   },
+   "elucidate":{
+      "learned":false,
+      "list":"basic",
+      "def":"make free from confusion or ambiguity"
+   },
+   "rue":{
+      "learned":false,
+      "list":"basic",
+      "def":"sadness associated with some wrong done or some disappointment"
+   },
+   "voracious":{
+      "learned":false,
+      "list":"basic",
+      "def":"excessively greedy and grasping"
+   },
+   "poignant":{
+      "learned":false,
+      "list":"basic",
+      "def":"deeply affecting, touching; keen or sharp in taste or smell"
+   },
+   "respite":{
+      "learned":false,
+      "list":"basic",
+      "def":"a pause from doing something (as work)"
+   },
+   "vacillate":{
+      "learned":false,
+      "list":"basic",
+      "def":"be undecided about something"
+   },
+   "impenetrable":{
+      "learned":false,
+      "list":"basic",
+      "def":"impossible to understand"
+   },
+   "zealous":{
+      "learned":false,
+      "list":"basic",
+      "def":"marked by active interest and enthusiasm"
+   },
+   "anomalous":{
+      "learned":false,
+      "list":"basic",
+      "def":"deviating from the general or common order or type"
+   },
+   "complaisance":{
+      "learned":false,
+      "list":"basic",
+      "def":"a disposition or tendency to yield to the will of others"
+   },
+   "conciliatory":{
+      "learned":false,
+      "list":"basic",
+      "def":"appeasing; soothing; showing willingness to reconcile"
+   },
+   "decimate":{
+      "learned":false,
+      "list":"basic",
+      "def":"kill in large numbers"
+   },
+   "fallacy":{
+      "learned":false,
+      "list":"basic",
+      "def":"a misconception resulting from incorrect reasoning"
+   },
+   "obdurate":{
+      "learned":false,
+      "list":"basic",
+      "def":"showing unfeeling resistance to tender feelings"
+   },
+   "plethora":{
+      "learned":false,
+      "list":"basic",
+      "def":"overabundance; excess"
+   },
+   "sparing":{
+      "learned":false,
+      "list":"basic",
+      "def":"avoiding waste"
+   },
+   "articulate":{
+      "learned":false,
+      "list":"basic",
+      "def":"expressing yourself easily or characterized by clear expressive language"
+   },
+   "garner":{
+      "learned":false,
+      "list":"basic",
+      "def":"acquire or deserve by one's efforts or actions"
+   },
+   "weather":{
+      "learned":false,
+      "list":"basic",
+      "def":"face or endure with courage"
+   },
+   "acquiesce":{
+      "learned":false,
+      "list":"basic",
+      "def":"to agree or express agreement"
+   },
+   "coalesce":{
+      "learned":false,
+      "list":"basic",
+      "def":"fuse or cause to grow together"
+   },
+   "disinterest":{
+      "learned":false,
+      "list":"basic",
+      "def":"lack of bias or involvement; impartiality; (ed) uninvolved; free from self-interest"
+   },
+   "incipient":{
+      "learned":false,
+      "list":"basic",
+      "def":"only partly in existence"
+   },
+   "nonplused":{
+      "learned":false,
+      "list":"basic",
+      "def":"filled with bewilderment"
+   },
+   "cultured":{
+      "learned":false,
+      "list":"basic",
+      "def":"marked by refinement in taste and manners"
+   },
+   "derision":{
+      "learned":false,
+      "list":"basic",
+      "def":"the act of deriding or treating with contempt"
+   },
+   "compliant":{
+      "learned":false,
+      "list":"basic",
+      "def":"easily influenced or imposed on"
+   },
+   "exonerate":{
+      "learned":false,
+      "list":"basic",
+      "def":"pronounce not guilty of criminal charges"
+   },
+   "mollify":{
+      "learned":false,
+      "list":"basic",
+      "def":"make more temperate, acceptable, or suitable by adding something else"
+   },
+   "condone":{
+      "learned":false,
+      "list":"basic",
+      "def":"excuse, overlook, or make allowances for"
+   },
+   "glib":{
+      "learned":false,
+      "list":"basic",
+      "def":"marked by lack of intellectual depth"
+   },
+   "extemporaneous":{
+      "learned":false,
+      "list":"basic",
+      "def":"with little or no preparation or forethought"
+   },
+   "impudent":{
+      "learned":false,
+      "list":"basic",
+      "def":"marked by casual disrespect"
+   },
+   "abysmal":{
+      "learned":false,
+      "list":"basic",
+      "def":"very great"
+   },
+   "sundry":{
+      "learned":false,
+      "list":"basic",
+      "def":"various; miscellaneous"
+   },
+   "taciturn":{
+      "learned":false,
+      "list":"basic",
+      "def":"habitually silent or quiet, inclined to talk very little"
+   },
+   "vitality":{
+      "learned":false,
+      "list":"basic",
+      "def":"an energetic style"
+   },
+   "admonish":{
+      "learned":false,
+      "list":"basic",
+      "def":"to caution or advise against something; to scold mildly; to remind of a duty"
+   },
+   "archaic":{
+      "learned":false,
+      "list":"basic",
+      "def":"so extremely old as seeming to belong to an earlier period"
+   },
+   "catalyst":{
+      "learned":false,
+      "list":"basic",
+      "def":"something that causes an important event to happen"
+   },
+   "squalid":{
+      "learned":false,
+      "list":"basic",
+      "def":"foul and run-down and repulsive"
+   },
+   "discomfit":{
+      "learned":false,
+      "list":"basic",
+      "def":"cause to lose one's composure"
+   },
+   "flamboyant":{
+      "learned":false,
+      "list":"basic",
+      "def":"elaborately or excessively ornamented"
+   },
+   "corroborate":{
+      "learned":false,
+      "list":"basic",
+      "def":"establish or strengthen as with new evidence or facts"
+   },
+   "flip":{
+      "learned":false,
+      "list":"basic",
+      "def":"marked by casual disrespect"
+   },
+   "exemplar":{
+      "learned":false,
+      "list":"basic",
+      "def":"something to be imitated"
+   },
+   "aversion":{
+      "learned":false,
+      "list":"basic",
+      "def":"a feeling of intense dislike"
+   },
+   "temper":{
+      "learned":false,
+      "list":"basic",
+      "def":"make more temperate, acceptable, or suitable by adding something else"
+   },
+   "genial":{
+      "learned":false,
+      "list":"basic",
+      "def":"diffusing warmth and friendliness"
+   },
+   "tautology":{
+      "learned":false,
+      "list":"basic",
+      "def":"useless repetition"
+   },
+   "covert":{
+      "learned":false,
+      "list":"basic",
+      "def":"secret or hidden"
+   },
+   "dearth":{
+      "learned":false,
+      "list":"basic",
+      "def":"an insufficient quantity or number"
+   },
+   "obtuse":{
+      "learned":false,
+      "list":"basic",
+      "def":"slow to learn or understand"
+   },
+   "tranquil":{
+      "learned":false,
+      "list":"basic",
+      "def":"free from disturbance"
+   },
+   "onerous":{
+      "learned":false,
+      "list":"basic",
+      "def":"troubling; burdensome"
+   },
+   "intrepid":{
+      "learned":false,
+      "list":"basic",
+      "def":"invulnerable to fear or intimidation"
+   },
+   "paradox":{
+      "learned":false,
+      "list":"basic",
+      "def":"a self-contradiction"
+   },
+   "anthology":{
+      "learned":false,
+      "list":"basic",
+      "def":"a collection of selected literary passages"
+   },
+   "tentative":{
+      "learned":false,
+      "list":"basic",
+      "def":"under terms not final or fully worked out or agreed upon"
+   },
+   "introspection":{
+      "learned":false,
+      "list":"basic",
+      "def":"the contemplation of your own thoughts and desires and conduct"
+   },
+   "condolence":{
+      "learned":false,
+      "list":"basic",
+      "def":"an expression of sympathy with another's grief"
+   },
+   "incorrigible":{
+      "learned":false,
+      "list":"basic",
+      "def":"incapable of being reformed or improved"
+   },
+   "superfluous":{
+      "learned":false,
+      "list":"basic",
+      "def":"more than is needed, desired, or required"
+   },
+   "deviation":{
+      "learned":false,
+      "list":"basic",
+      "def":"departure or wandering away from the accepted standard"
+   },
+   "proliferate":{
+      "learned":false,
+      "list":"basic",
+      "def":"cause to grow or increase rapidly"
+   },
+   "authoritarian":{
+      "learned":false,
+      "list":"basic",
+      "def":"likened to a dictator in severity"
+   },
+   "lucid":{
+      "learned":false,
+      "list":"basic",
+      "def":"easily understood; clear"
+   },
+   "trepidation":{
+      "learned":false,
+      "list":"basic",
+      "def":"a feeling of alarm or dread"
+   },
+   "animosity":{
+      "learned":false,
+      "list":"basic",
+      "def":"a feeling of ill will arousing active hostility"
+   },
+   "prudent":{
+      "learned":false,
+      "list":"basic",
+      "def":"wise, careful, cautious"
+   },
+   "antecedent":{
+      "learned":false,
+      "list":"basic",
+      "def":"a preceding occurrence or cause or event"
+   },
+   "consternation":{
+      "learned":false,
+      "list":"basic",
+      "def":"dismay, confusion"
+   },
+   "insipid":{
+      "learned":false,
+      "list":"basic",
+      "def":"lacking interest or significance"
+   },
+   "sedative":{
+      "learned":false,
+      "list":"basic",
+      "def":"tending to soothe or tranquilize"
+   },
+   "forswear":{
+      "learned":false,
+      "list":"basic",
+      "def":"formally reject or disavow a formerly held belief, usually under pressure"
+   }
+}
